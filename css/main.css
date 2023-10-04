@@ -1,0 +1,18 @@
+/*Fondo*/
+body, html {
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url(../img/fondo.png) no-repeat center center fixed;
+    background-size: 100% 100%;
+}
+
+.centrar{
+    margin:auto;
+    display:block;
+}
+
+
+.menu-index{
+  font-size: 22px;
+  color: rgb(218, 18, 18);
+}
